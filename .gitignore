@@ -1,4 +1,10 @@
 /.idea
-node_modules/
 eve-operations-suite.iml
+
+
+**/app/**/*.js
+**/app/**/*.map
+
+node_modules/
+
 /typings
